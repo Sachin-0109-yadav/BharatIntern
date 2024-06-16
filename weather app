@@ -1,3 +1,4 @@
+//index home html  
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -29,7 +30,7 @@
 
 
 
-
+// css body
 body {
     font-family: Arial, sans-serif;
     background-color: #f0f0f0;
@@ -80,7 +81,7 @@ body {
     background-color: #0056b3;
 }
 
-
+//js
 const api = {
   key: "fcc8de7015bbb202209bbf0261babf4c",
   base: "https://api.openweathermap.org/data/2.5/"
